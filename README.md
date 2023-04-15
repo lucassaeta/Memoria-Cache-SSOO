@@ -21,9 +21,3 @@ Simulador de Memoria Cache para la asignatura "Sistemas Operativos" en U-tad. Es
 ## Licencia 📄
 
 Puede redistribuir este proyecto de cualquier forma mientras que la licencia lo permita, como la distribución gratuita no modificada de la fuente y los binarios de "Memoria Cache SSOO".
-
-## Comparte 🎁
-
-* Comenta a otros acerca de este proyecto 📢
-* Da las gracias públicamente 🤓
-* Danos estrellas ⭐
