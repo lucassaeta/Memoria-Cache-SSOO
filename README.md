@@ -5,7 +5,7 @@ Simulador de Memoria Cache para la asignatura "Sistemas Operativos" en U-tad. Es
 ## Compilar & Ejecutar 💿
 
 1. Descargar repositorio
-2. Compilar en Geany
+2. Compilar con GCC o en Geany
 3. Ejecutar en terminal
 
 ## Construido con 🛠️
