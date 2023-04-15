@@ -1,6 +1,6 @@
 # Memoria Cache ⚙️
 
-Simulador de Memoria Cache para la asignatura "Sistemas Operativos" en U-tad.
+Simulador de Memoria Cache para la asignatura "Sistemas Operativos" en U-tad. Este proyecto fue llevado a cabo en segundo de carrera. 
 
 ## Compilar & Ejecutar 💿
 
